@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prasanna Kumar T</h1>
 <h3 align="center">CSBS Student | Developer | AI Enthusiast | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannakumar1910&label=Profile%20views&color=0e75b6&style=flat" alt="prasannakumar1910" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prasannakumar1910&label=Profile%20views&color=0e75b6&style=flat" alt="prasannakumar1910" />
+</p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=prasannakumar1910" alt="GitHub Trophies" />
-  </a> 
+  </a>
 </p>
 
 - 🔭 Currently working on **AI-powered Comorbidity Disease Predictor**
@@ -18,7 +20,7 @@
 
 ---
 
-### 🌐 Connect with me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://auth.geeksforgeeks.org/user/prasanna kumar t" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
@@ -27,8 +29,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="48" height="48"/>
@@ -88,13 +89,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/P/power-bi-logo-625BBA2D31-seeklogo.com.png" alt="powerbi" width="48" height="48"/>
-  </a> 
+    <img src="http://www.legalex.in/amanimg/tpowerbilogo.png" alt="powerbi" width="48" height="48"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasannakumar1910&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
